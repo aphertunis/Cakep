@@ -16,11 +16,11 @@ public class latihan30 {
             String jawaban = scanner.nextLine();
             
             if (jawaban.equalsIgnoreCase("Iyanih")) {
-                System.out.println("Cakep Bener. Good Job");
+                System.out.println("Bagus. Good Job");
                 System.out.println("BUILD SUCCESSFUL (total time: 8 seconds)");
             } else if (jawaban.equalsIgnoreCase("Enggak")) {
-                System.out.println("Tetep cakep sih.");
-                System.out.println("Sing penting paham konsep nya yee.");
+                System.out.println("Tetep Bagus sih.");
+                System.out.println("Yang penting paham konsep nya.");
                 System.out.println("Keep the code works dude");
                 System.out.println("BUILD SUCCESSFUL (total time: 6 seconds)");
             } else {
